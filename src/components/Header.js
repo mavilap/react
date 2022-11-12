@@ -1,4 +1,4 @@
-//import { Outlet, Link } from "react-router-dom";
+
 import logo from '../logo.png';
 const Header = () => {
     return (
