@@ -1,9 +1,7 @@
 
 import './App.css';
-
-import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-import Layout from "./paginas/Layout";
+import { BrowserRouter, Routes, Route} from "react-router-dom";
+//import Layout from "./paginas/Layout";
 import Home from "./paginas/Home";
 import Blogs from "./paginas/Blogs";
 import Contact from "./paginas/Contact";
@@ -11,7 +9,7 @@ import NoPage from "./paginas/NoPage";
 //Componenets
 import Header from "./components/Header";
 import Aside from "./components/Aside";
-import Main from "./components/Main";
+//import Main from "./components/Main";
 import Footer from "./components/Footer";
 import Nav from './components/Nav';
 
