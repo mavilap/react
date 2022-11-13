@@ -5,9 +5,9 @@ const Aside = () => {
         <aside class="lateral">
             <h2>Menú lateral</h2>
             <ul class="menu-l">
-                <li><a href="#"> Inicio</a> </li>
-                <li><a href="#">Informacion</a> </li>
-                <li><a href="contactame.html"> Acerca de</a></li>
+                <li><a href="index.html"> Inicio</a> </li>
+                <li><a href="index.html">Informacion</a> </li>
+                <li><Link to="/Contact">Contact</Link></li>
             </ul>
         </aside>
 
